@@ -2,11 +2,13 @@
 content_type: page
 description: p
 draft: false
+file: /courses/ibrahim-yts-course3-ibrahim-yts-course3-spring-2022
 title: p
 uid: d45d4699-efca-4ed7-bc96-572c689bcb2c
 ---
-video 4
+video 5
 
+{{< resource uuid="4cd95de9-c887-44d4-af2e-7d06c82903f0" >}}
 {{< resource uuid="029b33d9-4f3c-4feb-bd7b-5311f5233bc0" >}}
 {{< resource uuid="926d620d-2f46-453e-9f56-a5c62418da70" >}}
 

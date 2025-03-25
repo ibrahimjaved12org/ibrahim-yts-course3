@@ -15,7 +15,7 @@ title: "The Human Element in Machine Learning w Catherine D\u2019Ignazio, Jacob 
   \ & Harini Suresh (S3:E5)"
 uid: f009fdf5-b7f0-43c0-8e45-21b87325fd77
 video_files:
-  archive_url: ''
+  archive_url: https://archive.org/download/mit6_1200js24/mit6_1200js24_lec01_360p.mp4
   video_captions_file: https://draft-qa.ocw.mit.edu/courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc/s3e5_dignazio_andreas_suresh.vtt
   video_thumbnail_file: https://img.youtube.com/vi/MbzbbvTlL1Y/default.jpg
   video_transcript_file: https://draft-qa.ocw.mit.edu/courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc/s3e5_dignazio_andreas_suresh.pdf
